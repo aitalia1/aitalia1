@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is Antonino Italia, I am currently a community college student who is intending to transfer to a two year university. I hope to attain a Master's degree in Computer Science. 
+
+-  I’m currently working on a Reverse Polish Notation Calculator using a Stack ADT.
+-  I’m currently learning and mastering C++
+-  Pronouns: He/Him & They/Them
+-  Fun fact: I have been coding since age 8
 
 <!--
 **aitalia1/aitalia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
